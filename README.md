@@ -13,6 +13,16 @@ A React-based admin dashboard for managing users, roles, and permissions.
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
 
+   Install dependencies:
+
+npm install
+Start the mock API:
+
+npx json-server --watch db.json --port 3001
+Run the app:
+
+npm start
+
 
 
 
